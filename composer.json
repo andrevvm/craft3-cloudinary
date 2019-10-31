@@ -16,9 +16,15 @@
       "homepage": "https://github.com/timkelty"
     }
   ],
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/andrevvm/flysystem-cloudinary"
+    }
+  ],
   "require": {
     "craftcms/cms": "^3.0.0-beta.24",
-    "andrevvm/flysystem-cloudinary": "^1.0"
+    "enl/flysystem-cloudinary": "^1.0"
   },
   "autoload": {
     "psr-4": {
