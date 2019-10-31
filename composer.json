@@ -28,7 +28,7 @@
   "extra": {
     "name": "Cloudinary",
     "handle": "cloudinary",
-    "changelogUrl": "https://raw.githubusercontent.com/timkelty/craft3-cloudinary/master/CHANGELOG.md",
-    "downloadUrl": "https://github.com/timkelty/craft3-cloudinary/archive/master.zip"
+    "changelogUrl": "https://raw.githubusercontent.com/andrevvm/craft3-cloudinary/master/CHANGELOG.md",
+    "downloadUrl": "https://github.com/andrevvm/craft3-cloudinary/archive/master.zip"
   }
 }
